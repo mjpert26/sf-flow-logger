@@ -1,0 +1,994 @@
+66.0 APEX_CODE,ERROR;APEX_PROFILING,INFO;CALLOUT,INFO;DATA_ACCESS,INFO;DB,INFO;NBA,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,ERROR;WAVE,INFO;WORKFLOW,FINER
+13:04:29.0 (260613)|USER_INFO|[EXTERNAL]|005Hp00000iw8lf|autoproc@00dhp000004axpamao|(GMT-05:00) Eastern Standard Time (America/Coral_Harbour)|GMT-05:00
+13:04:29.0 (4787515)|FLOW_CREATE_INTERVIEW_BEGIN|00DHp000004AXPa|activity_object_matching__EmailMatch|activity_object_matching__EmailMatch-1
+13:04:29.0 (4910164)|FLOW_CREATE_INTERVIEW_END|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|Activities: Match Email to Records
+13:04:29.0 (5188121)|FLOW_CREATE_INTERVIEW_BEGIN|00DHp000004AXPa|activity_object_matching__EmailMatch|activity_object_matching__EmailMatch-1
+13:04:29.0 (5213614)|FLOW_CREATE_INTERVIEW_END|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|Activities: Match Email to Records
+13:04:29.0 (5696381)|FLOW_START_INTERVIEWS_BEGIN|2
+13:04:29.0 (5834804)|FLOW_START_INTERVIEW_BEGIN|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|Activities: Match Email to Records
+13:04:29.0 (5882890)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL queries: 0 out of 100
+13:04:29.0 (5930899)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL query rows: 0 out of 50000
+13:04:29.0 (5935390)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOSL queries: 0 out of 20
+13:04:29.0 (5939325)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML statements: 0 out of 150
+13:04:29.0 (5942871)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML rows: 0 out of 10000
+13:04:29.0 (5946553)|FLOW_START_INTERVIEW_LIMIT_USAGE|CPU time in ms: 0 out of 15000
+13:04:29.0 (5955900)|FLOW_START_INTERVIEW_LIMIT_USAGE|Heap size in bytes: 0 out of 6000000
+13:04:29.0 (5959545)|FLOW_START_INTERVIEW_LIMIT_USAGE|Callouts: 0 out of 100
+13:04:29.0 (5963839)|FLOW_START_INTERVIEW_LIMIT_USAGE|Email invocations: 0 out of 10
+13:04:29.0 (5967485)|FLOW_START_INTERVIEW_LIMIT_USAGE|Future calls: 0 out of 50
+13:04:29.0 (5970760)|FLOW_START_INTERVIEW_LIMIT_USAGE|Jobs in queue: 0 out of 50
+13:04:29.0 (5974237)|FLOW_START_INTERVIEW_LIMIT_USAGE|Push notifications: 0 out of 10
+13:04:29.0 (6048957)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|activityId|1baVy000003EwqU
+13:04:29.0 (6053412)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|htmlBody|<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style type="text/css" style="display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style></head><body dir="ltr"><div class="elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Please see attached.</div><div class="elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><br></div><div class="elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">We good to fund 👀?</div><div id="appendonsend"></div><hr tabindex="-1" style="display:inline-block; width:98%"><div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> Ralph M &lt;ralph@reliablecapital.com&gt;<br><b>Sent:</b> Monday, March 30, 2026 1:45 PM<br><b>To:</b> Luckens Victor &lt;luckens.victor@bigthinkcapital.com&gt;<br><b>Subject:</b> Re: Application Approved - 596873 - GD REMODEL LLC</font> <div>&nbsp;</div></div><div><div dir="ltr"><div>Their social security card</div><div><div dir="ltr" class="x_gmail_signature" data-smartmail="gmail_signature"><div dir="ltr"><div><br></div><br><br><table style="color:rgb(10,10,10); font-family:Helvetica,Arial,sans-serif; font-size:16px; border-collapse:collapse; border-spacing:0px; margin-right:auto; padding:0px; vertical-align:top; width:650px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 24px 16px 16px; text-align:left; vertical-align:middle; width:225.667px"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!CunK_VDYb7XQP8sqg5Ov80q2lG3LfrFp6kKo8Nq7uwnGL3ESVGL2r_n0CIX9ehiA81TxGIR7OSRXr_vuVdEyrUgw2gOQOII$" target="_blank" style="color:rgb(33,153,232); line-height:1.3; margin:0px; padding:0px"><img alt="" src="https://i.imgur.com/KGSHblw.png" style="border:none; clear:both; display:block; outline:none; width:237.656px"></a></th><th style="border-left:2px solid rgb(32,87,164); font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 8px 16px 24px; text-align:left; width:322.333px"><font color="#888888"><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(32,87,164); font-size:20px; line-height:1.3; margin:0px; padding:0px">Ralph Mirabella</p></th></tr><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.3; margin:0px 0px 10px; padding:0px">Chief Sales Officer</p></th></tr></tbody></table></font><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:top; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/dRBriuE.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="tel:15163134146" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">+1 516 313 4146</a></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/RFwYcEX.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="mailto:ralph@reliablecapital.com" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">ralph@reliablecapital.com</a></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/ruwYZEw.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px"><u>1178 Broadway FL 3, #2011 New York, NY 10001</u></p></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/45bANax.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!CunK_VDYb7XQP8sqg5Ov80q2lG3LfrFp6kKo8Nq7uwnGL3ESVGL2r_n0CIX9ehiA81TxGIR7OSRXr_vuVdEyrUgw2gOQOII$" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">www.reliablecapital.com</a></td></tr></tbody></table></th></tr></tbody></table></div></div></div><br></div><br><div class="x_gmail_quote x_gmail_quote_container"><div dir="ltr" class="x_gmail_attr">On Mon, Mar 30, 2026 at 1:44 PM Luckens Victor &lt;<a href="mailto:luckens.victor@bigthinkcapital.com">luckens.victor@bigthinkcapital.com</a>&gt; wrote:<br></div><blockquote class="x_gmail_quote" style="margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex"><div><div dir="auto" style="font-family:Aptos,Aptos_MSFontService,-apple-system,Roboto,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(33,33,33)">I'll reach out to confirm. What would you need from them to confirm?</div><div id="x_m_-6228745371028064899ms-outlook-mobile-body-separator-line" dir="auto" style="font-family:Aptos,Aptos_MSFontService,-apple-system,Roboto,Arial,Helvetica,sans-serif; font-size:12pt"><div style="font-family:Aptos,Aptos_MSFontService,-apple-system,Roboto,Arial,Helvetica,sans-serif; font-size:12pt"><br></div></div><div id="x_m_-6228745371028064899ms-outlook-mobile-signature" dir="auto" style="font-family:Aptos,Aptos_MSFontService,-apple-system,Roboto,Arial,Helvetica,sans-serif; font-size:12pt"><div id="x_m_-6228745371028064899c2_mobile_$0a07c468-ea89-4bfd-9c18-68eac1bb9c54" style="line-height:normal; font-family:Aptos,Aptos_MSFontService,-apple-system,Roboto,Arial,Helvetica,sans-serif; font-size:12pt"><br><br><br><br><br><br><table style="max-width:600px; border-collapse:collapse; font-family:Aptos"><tbody><tr><td style="padding:0px; width:0px; height:60px; vertical-align:middle; border-right:1px solid rgb(111,168,220); text-align:center; font-size:10pt; font-family:Aptos"><img alt="Big Think Capital Logo" width="60" height="60" src="https://bigthinkcapital.com/wp-content/uploads/2024/09/BTC-Favicon.png" style="max-width:60px; max-height:60px; width:60px; font-size:10pt; font-family:Aptos"> </td><td style="padding-left:5px; margin-left:0px; font-size:10pt; color:rgb(30,58,122); text-align:left; font-family:Aptos"><b style="font-size:10pt; font-family:Aptos"><span style="font-family:Aptos"><span style="font-size:10pt"><span style="font-size:10pt">Luckens Victor</span></span></span></b><br style="font-family:Aptos; font-size:10pt"><span style="font-family:Aptos; font-size:10pt"></span><span style="font-size:10pt; color:rgb(102,102,102); font-family:Aptos">Funding Manager</span><br style="font-family:Aptos; font-size:10pt"><span style="font-family:Aptos; font-size:10pt"></span><span style="font-size:10pt; color:rgb(102,102,102); font-family:Aptos">Big Think Capital</span><br style="font-family:Aptos; font-size:10pt"><span style="font-family:Aptos; font-size:10pt"><div style="font-size:10pt; color:rgb(102,102,102); font-family:Aptos">P: 516-203-1930 </div></span></td></tr></tbody></table><p></p><table style="max-width:600px; border-collapse:collapse; font-family:Aptos"><tbody><tr><td colspan="2" style="padding-top:5px; border-top:1px solid rgb(111,168,220)"><div style="font-size:10px; color:rgb(102,102,102); margin-bottom:5px"><strong>Important:</strong> The contents of this email and any attachments are confidential. They are intended for the named recipient(s) only. If you have received this email by mistake, please notify the sender immediately and do not disclose the contents to anyone or make copies thereof. </div></td></tr></tbody></table><p></p></div><div style="font-family:Aptos,Aptos_MSFontService,-apple-system,Roboto,Arial,Helvetica,sans-serif; font-size:12pt"><br></div></div><hr style="display:inline-block; width:98%"><div id="x_m_-6228745371028064899divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> Ralph M &lt;<a href="mailto:ralph@reliablecapital.com" target="_blank">ralph@reliablecapital.com</a>&gt;<br><b>Sent:</b> Monday, March 30, 2026 1:38:45 PM<br><b>To:</b> Luckens Victor &lt;<a href="mailto:luckens.victor@bigthinkcapital.com" target="_blank">luckens.victor@bigthinkcapital.com</a>&gt;<br><b>Subject:</b> Re: Application Approved - 596873 - GD REMODEL LLC</font> <div>&nbsp;</div></div><div><div dir="ltr"><div>Hi Luckens,</div><div><br></div><div>Can you confirm these merchants are citizens or permanent residents?<br>Credit is very fresh and CLEAR doesn't return the SSN #'s</div><div><div dir="ltr"><div dir="ltr"><div><br></div><br><br><table style="color:rgb(10,10,10); font-family:Helvetica,Arial,sans-serif; font-size:16px; border-collapse:collapse; border-spacing:0px; margin-right:auto; padding:0px; vertical-align:top; width:650px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 24px 16px 16px; text-align:left; vertical-align:middle; width:225.667px"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Bsu5bLFVfjJ2TVLNOX188ZbM5iN2bPsv8H6Ws4-b4hVN85qMH2uijpOIkwg5M8EgoJOdZgIqVKTc2xldLUtFpH3ea9N5BGY$" target="_blank" style="color:rgb(33,153,232); line-height:1.3; margin:0px; padding:0px"><img alt="" src="https://i.imgur.com/KGSHblw.png" style="border:none; clear:both; display:block; outline:none; width:237.656px"></a></th><th style="border-left:2px solid rgb(32,87,164); font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 8px 16px 24px; text-align:left; width:322.333px"><font color="#888888"><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(32,87,164); font-size:20px; line-height:1.3; margin:0px; padding:0px">Ralph Mirabella</p></th></tr><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.3; margin:0px 0px 10px; padding:0px">Chief Sales Officer</p></th></tr></tbody></table></font><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:top; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/dRBriuE.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="tel:15163134146" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">+1 516 313 4146</a></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/RFwYcEX.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="mailto:ralph@reliablecapital.com" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">ralph@reliablecapital.com</a></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/ruwYZEw.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px"><u>1178 Broadway FL 3, #2011 New York, NY 10001</u></p></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/45bANax.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Bsu5bLFVfjJ2TVLNOX188ZbM5iN2bPsv8H6Ws4-b4hVN85qMH2uijpOIkwg5M8EgoJOdZgIqVKTc2xldLUtFpH3ea9N5BGY$" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">www.reliablecapital.com</a></td></tr></tbody></table></th></tr></tbody></table></div></div></div><br></div><br><div><div dir="ltr">On Mon, Mar 30, 2026 at 1:06 PM 'Luckens Victor' via Partner Support &lt;<a href="mailto:partner-support@reliablecapital.com" target="_blank">partner-support@reliablecapital.com</a>&gt; wrote:<br></div><blockquote style="margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex"><div><div dir="ltr"><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Hey team,&nbsp;</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><br></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Any update here?&nbsp;</div><div id="x_m_-6228745371028064899x_m_-8136371196647327212appendonsend"></div><hr style="display:inline-block; width:98%"><div id="x_m_-6228745371028064899x_m_-8136371196647327212divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> Reliable Capital Underwriting &lt;<a href="mailto:underwriting@reliablecapital.com" target="_blank">underwriting@reliablecapital.com</a>&gt;<br><b>Sent:</b> Monday, March 30, 2026 12:10 PM<br><b>To:</b> Vanessa Vasilakis &lt;<a href="mailto:vanessa.vasilakis@bigthinkcapital.com" target="_blank">vanessa.vasilakis@bigthinkcapital.com</a>&gt;<br><b>Cc:</b> Luckens Victor &lt;<a href="mailto:luckens.victor@bigthinkcapital.com" target="_blank">luckens.victor@bigthinkcapital.com</a>&gt;; Reliable Capital Notifications &lt;<a href="mailto:notifications@reliablecapital.com" target="_blank">notifications@reliablecapital.com</a>&gt;; <a href="mailto:pricing@reliablecapital.com" target="_blank">pricing@reliablecapital.com</a> &lt;<a href="mailto:pricing@reliablecapital.com" target="_blank">pricing@reliablecapital.com</a>&gt;; <a href="mailto:partnersupport@reliablecapital.com" target="_blank">partnersupport@reliablecapital.com</a> &lt;<a href="mailto:partnersupport@reliablecapital.com" target="_blank">partnersupport@reliablecapital.com</a>&gt;; Ops &lt;<a href="mailto:ops@bigthinkcapital.com" target="_blank">ops@bigthinkcapital.com</a>&gt;; Joe Pellegrino &lt;<a href="mailto:joe.pellegrino@bigthinkcapital.com" target="_blank">joe.pellegrino@bigthinkcapital.com</a>&gt;<br><b>Subject:</b> Re: Application Approved - 596873 - GD REMODEL LLC</font> <div>&nbsp;</div></div><div><div dir="ltr"><div>The contract has been signed. Plaid has been completed as well and is under review.&nbsp;<br></div><div><br></div><div><br></div><div><div dir="ltr"><div dir="ltr"><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"></div><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"><span style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small">--</span></div><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"><div style="margin-right:auto; max-width:600px"><div dir="ltr" style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small"><div dir="ltr"><table style="color:rgb(10,10,10); font-family:Helvetica,Arial,sans-serif; font-size:16px; background-image:initial; background-position:initial; background-repeat:initial; border-collapse:collapse; border-spacing:0px; height:291.984px; line-height:1.3; margin:0px; padding:0px; vertical-align:top; width:1912px"><tbody><tr style="padding:0px; vertical-align:top"><td align="center" valign="top" style="margin-right:auto; margin-left:auto; float:none; line-height:1.3; padding:0px; text-align:center; vertical-align:top; border-collapse:collapse"><center style="min-width:580px; width:1912px"><table style="border-collapse:collapse; border-spacing:0px; margin-right:auto; padding:0px; text-align:left; vertical-align:top; width:650px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 24px 16px 16px; text-align:left; vertical-align:middle; width:225.667px"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7fDEyv3f$" target="_blank" style="color:rgb(33,153,232); line-height:1.3; margin:0px; padding:0px"><img alt="" src="https://i.imgur.com/KGSHblw.png" style="border:none; clear:both; display:block; outline:none; width:237.656px"></a></th><th style="border-left:2px solid rgb(32,87,164); font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 8px 16px 24px; text-align:left; width:322.333px"><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><span style="color:rgb(23,23,23); font-size:14px">Reliable Capital Underwriting</span> <p style="color:rgb(32,87,164); font-size:20px; line-height:1.3; margin:0px; padding:0px"></p></th></tr><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.3; margin:0px 0px 10px; padding:0px"><span style="color:rgb(32,87,164); font-size:20px">Underwriting Team</span></p></th></tr></tbody></table></th></tr></tbody></table><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:top; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/dRBriuE.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="tel:12123677474" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">+1 212 367 7474</a></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/RFwYcEX.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="mailto:underwriting@reliablecapital.com" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">underwriting@reliablecapital.com</a></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/ruwYZEw.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px"><u>1178 Broadway Floor 3 New York, NY 10001</u></p></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/45bANax.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7fDEyv3f$" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">www.reliablecapital.com</a></td></tr></tbody></table></th></tr></tbody></table><table style="background-image:initial; background-position:initial; background-repeat:initial; border-collapse:collapse; border-spacing:0px; height:121.797px; line-height:1.3; margin:0px; padding:0px; text-align:left; vertical-align:top; width:1912px"><tbody><tr style="padding:0px; vertical-align:top"><td align="center" valign="top" style="margin-right:auto; margin-left:auto; float:none; line-height:1.3; padding:0px; text-align:center; vertical-align:top; border-collapse:collapse"><center style="min-width:580px; width:1912px"><table style="border-collapse:collapse; border-spacing:0px; margin-right:auto; padding:0px; text-align:left; vertical-align:top; width:650px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 24px 16px 16px; text-align:left; vertical-align:middle; width:225.667px"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7fDEyv3f$" target="_blank" style="color:rgb(33,153,232); line-height:1.3; margin:0px; padding:0px"></a></th><th style="border-left:2px solid rgb(32,87,164); font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 8px 16px 24px; text-align:left; width:322.333px"><a href="https://urldefense.com/v3/__https://www.bbb.org/us/ny/new-york/profile/financing/reliable-capital-advance-llc-0121-87176302__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7VWPOGzs$" target="_blank" style="color:rgb(17,85,204)"><img alt="" src="https://thebrilliancecentre.com/wp-content/uploads/2025/01/BBBIMGRC.png"></a></th></tr></tbody></table></center></td></tr></tbody></table></center></td></tr></tbody></table></div></div></div></div><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"></div></div></div></div><br></div><br><div><div dir="ltr">On Mon, Mar 30, 2026 at 11:01 AM Reliable Capital Notifications &lt;<a href="mailto:notifications@reliablecapital.com" target="_blank">notifications@reliablecapital.com</a>&gt; wrote:<br></div><blockquote style="margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex"><div dir="ltr"><div>Hi Team,<br><br>The contract was just sent. To fund here, we’ll need:<br><br><ul><li>Signed contract</li><li>Completed Plaid link - was sent the merchant directly and can be found here as well: <a href="https://urldefense.com/v3/__https://reliablecapital.lendtech.io/bank_connect/plaid.php?request_code=822c35ced08f429626a3b675a85a4fd0__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7Sk79MPK$" target="_blank">https://reliablecapital.lendtech.io/bank_connect/plaid.php?request_code=822c35ced08f429626a3b675a85a4fd0</a></li><li>Completed merchant interview<span> - (we’ll set this up once the contract is signed and the bank verification is complete, with Barry calling from a 212 area code)</span></li></ul></div><div><div dir="ltr"><div dir="ltr"><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"><span style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small"><br></span></div><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"><span style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small"><br></span></div><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"><span style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small"><br></span></div><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"><span style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small">--</span><br style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small"><div dir="ltr" style="color:rgb(34,34,34); font-family:Arial,Helvetica,sans-serif; font-size:small"><div dir="ltr"><table style="color:rgb(10,10,10); font-family:Helvetica,Arial,sans-serif; font-size:16px; background-image:initial; background-position:initial; background-repeat:initial; border-collapse:collapse; border-spacing:0px; height:291.984px; line-height:1.3; margin:0px; padding:0px; vertical-align:top; width:1912px"><tbody><tr style="padding:0px; vertical-align:top"><td align="center" valign="top" style="margin-right:auto; margin-left:auto; float:none; line-height:1.3; padding:0px; text-align:center; vertical-align:top; border-collapse:collapse"><center style="min-width:580px; width:1912px"><table style="border-collapse:collapse; border-spacing:0px; margin-right:auto; padding:0px; text-align:left; vertical-align:top; width:650px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 24px 16px 16px; text-align:left; vertical-align:middle; width:225.667px"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7fDEyv3f$" target="_blank" style="color:rgb(33,153,232); line-height:1.3; margin:0px; padding:0px"><img alt="" src="https://i.imgur.com/KGSHblw.png" style="border:none; clear:both; display:block; outline:none; width:237.656px"></a></th><th style="border-left:2px solid rgb(32,87,164); font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 8px 16px 24px; text-align:left; width:322.333px"><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(32,87,164); font-size:20px; line-height:1.3; margin:0px; padding:0px"></p></th></tr></tbody></table><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(32,87,164); font-size:20px; line-height:1.3; margin:0px; padding:0px">Support Team</p></th></tr><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px; padding:0px; text-align:left; width:338.344px"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.3; margin:0px 0px 10px; padding:0px">Reliable Capital Support</p></th></tr></tbody></table><table style="border-collapse:collapse; border-spacing:0px; padding:0px; vertical-align:top; width:338.344px"><tbody><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:top; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/dRBriuE.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="tel:12123677474" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">+1 212 367 7474</a></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/RFwYcEX.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="mailto:notifications@reliablecapital.com" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">notifications@reliablecapital.com</a></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/ruwYZEw.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><p style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px"><u>1178 Broadway Floor 3 New York, NY 10001</u></p></td></tr><tr style="padding:0px; vertical-align:top"><td style="line-height:1.3; padding:0px 8px 5px 0px; vertical-align:middle; width:20px; border-collapse:collapse"><img alt="" src="https://i.imgur.com/45bANax.png" style="clear:both; display:block; max-width:100%; outline:none; width:auto"></td><td style="line-height:1.3; padding:0px; vertical-align:top; border-collapse:collapse"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7fDEyv3f$" target="_blank" style="color:rgb(23,23,23); font-size:14px; line-height:1.7em; margin:0px; padding:0px">www.reliablecapital.com</a></td></tr></tbody></table></th></tr></tbody></table><table style="background-image:initial; background-position:initial; background-repeat:initial; border-collapse:collapse; border-spacing:0px; height:121.797px; line-height:1.3; margin:0px; padding:0px; text-align:left; vertical-align:top; width:1912px"><tbody><tr style="padding:0px; vertical-align:top"><td align="center" valign="top" style="margin-right:auto; margin-left:auto; float:none; line-height:1.3; padding:0px; text-align:center; vertical-align:top; border-collapse:collapse"><center style="min-width:580px; width:1912px"><table style="border-collapse:collapse; border-spacing:0px; margin-right:auto; padding:0px; text-align:left; vertical-align:top; width:650px"><tbody><tr style="padding:0px; vertical-align:top"><th style="font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 24px 16px 16px; text-align:left; vertical-align:middle; width:225.667px"><a href="https://urldefense.com/v3/__https://www.reliablecapital.com/__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7fDEyv3f$" target="_blank" style="color:rgb(33,153,232); line-height:1.3; margin:0px; padding:0px"></a></th><th style="border-left:2px solid rgb(32,87,164); font-weight:normal; line-height:1.3; margin:0px auto; padding:0px 8px 16px 24px; text-align:left; width:322.333px"><a href="https://urldefense.com/v3/__https://www.bbb.org/us/ny/new-york/profile/financing/reliable-capital-advance-llc-0121-87176302__;!!CFX1eF0BNyXgeFGS!Dd07R00jANRzK-O1xXc09iJeDzNYWdLpNykihehxfU2sc19H-OlucNsl05IgIEmEeez1d1Xb-Iq34dqT1kDuOAxXI4aiiaxp7VWPOGzs$" target="_blank" style="color:rgb(17,85,204)"><img alt="" src="https://thebrilliancecentre.com/wp-content/uploads/2025/01/BBBIMGRC.png"></a></th></tr></tbody></table></center></td></tr></tbody></table></center></td></tr></tbody></table></div></div></div><div style="color:rgb(0,0,0); font-family:&quot;Times New Roman&quot;; font-size:medium; margin-right:auto; max-width:600px"></div></div></div></div><br></div><br><div><div dir="ltr">On Mon, Mar 30, 2026 at 10:45 AM Luckens Victor &lt;<a href="mailto:luckens.victor@bigthinkcapital.com" target="_blank">luckens.victor@bigthinkcapital.com</a>&gt; wrote:<br></div><blockquote style="margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex"><div><div dir="ltr"><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Please see attached updated application</div><div id="x_m_-6228745371028064899x_m_-8136371196647327212x_m_-1510649191683093741m_-1234761618741415086m_-5561108701730157588appendonsend"></div><hr style="display:inline-block; width:98%"><div id="x_m_-6228745371028064899x_m_-8136371196647327212x_m_-1510649191683093741m_-1234761618741415086m_-5561108701730157588divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> Vanessa Vasilakis &lt;<a href="mailto:vanessa.vasilakis@bigthinkcapital.com" target="_blank">vanessa.vasilakis@bigthinkcapital.com</a>&gt;<br><b>Sent:</b> Monday, March 30, 2026 10:44 AM<br><b>To:</b> Reliable Capital Advance LLC &lt;<a href="mailto:underwriting@reliablecapital.com" target="_blank">underwriting@reliablecapital.com</a>&gt;<br><b>Cc:</b> <a href="mailto:pricing@reliablecapital.com" target="_blank">pricing@reliablecapital.com</a> &lt;<a href="mailto:pricing@reliablecapital.com" target="_blank">pricing@reliablecapital.com</a>&gt;; <a href="mailto:notifications@reliablecapital.com" target="_blank">notifications@reliablecapital.com</a> &lt;<a href="mailto:notifications@reliablecapital.com" target="_blank">notifications@reliablecapital.com</a>&gt;; <a href="mailto:partnersupport@reliablecapital.com" target="_blank">partnersupport@reliablecapital.com</a> &lt;<a href="mailto:partnersupport@reliablecapital.com" target="_blank">partnersupport@reliablecapital.com</a>&gt;; Ops &lt;<a href="mailto:ops@bigthinkcapital.com" target="_blank">ops@bigthinkcapital.com</a>&gt;; Luckens Victor &lt;<a href="mailto:luckens.victor@bigthinkcapital.com" target="_blank">luckens.victor@bigthinkcapital.com</a>&gt;; Joe Pellegrino &lt;<a href="mailto:joe.pellegrino@bigthinkcapital.com" target="_blank">joe.pellegrino@bigthinkcapital.com</a>&gt;<br><b>Subject:</b> Re: Application Approved - 596873 - GD REMODEL LLC</font> <div>&nbsp;</div></div><div dir="ltr"><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Hey Team,</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><br></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Please send docs.</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><br></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Retention</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">$35,000 - 11 months/ 44 weeks - 1.31 sell - paying 5</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><br></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Giaciara</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">e-mail: <a href="mailto:tiaalinekids@aol.com" target="_blank">tiaalinekids@aol.com</a></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">phone: (954) 304-1672</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><br></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Luca</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">email: <a href="mailto:gdremodelco@aol.com" target="_blank">gdremodelco@aol.com</a></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Phone: (954) 304-2134</div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><br></div><div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Thank you!<br><br><br><br></div><div id="x_m_-6228745371028064899x_m_-8136371196647327212x_m_-1510649191683093741m_-1234761618741415086m_-5561108701730157588x_Signature"><table style="max-width:600px; box-sizing:border-box; border-collapse:collapse; border-spacing:0px"><tbody><tr><td style="text-align:center; border-right:1px solid rgb(111,168,220); vertical-align:middle; width:0px; height:60px"><div style="text-align:center; font-family:Aptos; font-size:10pt"><img alt="Big Think Capital Logo" width="60" height="60" src="https://bigthinkcapital.com/wp-content/uploads/2024/09/BTC-Favicon.png" style="width:60px; height:60px; max-width:60px; max-height:60px"> </div></td><td style="text-align:left; padding-left:5px; color:rgb(30,58,122)"><div style="text-align:left; font-family:Aptos; font-size:10pt"><b>Vanessa Vasilakis</b><br><span style="color:rgb(102,102,102)">Operations Manager</span><br><span style="color:rgb(102,102,102)">Big Think Capital</span><br></div><div style="text-align:left; font-family:Aptos; font-size:10pt; color:rgb(102,102,102)">P: 844-200-7201</div></td></tr></tbody></table><table style="max-width:600px; box-sizing:border-box; border-collapse:collapse; border-spacing:0px"><tbody><tr><td colspan="2" style="border-top:1px solid rgb(111,168,220); padding-top:5px"><div style="margin-bottom:5px; font-family:Aptos; font-size:10px; color:rgb(102,102,102)"><b>Important:</b>&nbsp;The contents of this email and any attachments are confidential. They are intended for the named recipient(s) only. If you have received this email by mistake, please notify the sender immediately and do not disclose the contents to anyone or make copies thereof. </div></td></tr></tbody></table></div><div id="x_m_-6228745371028064899x_m_-8136371196647327212x_m_-1510649191683093741m_-1234761618741415086m_-5561108701730157588x_appendonsend"></div><hr style="display:inline-block; width:98%"><div id="x_m_-6228745371028064899x_m_-8136371196647327212x_m_-1510649191683093741m_-1234761618741415086m_-5561108701730157588x_divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> <a href="mailto:underwriting@reliablecapital.com" target="_blank">underwriting@reliablecapital.com</a> &lt;<a href="mailto:underwriting@reliablecapital.com" target="_blank">underwriting@reliablecapital.com</a>&gt; on behalf of Reliable Capital Advance LLC &lt;<a href="mailto:underwriting@reliablecapital.com" target="_blank">underwriting@reliablecapital.com</a>&gt;<br><b>Sent:</b> Monday, March 30, 2026 9:04 AM<br><b>To:</b> newdeals &lt;<a href="mailto:newdeals@bigthinkcapital.com" target="_blank">newdeals@bigthinkcapital.com</a>&gt;<br><b>Cc:</b> <a href="mailto:pricing@reliablecapital.com" target="_blank">pricing@reliablecapital.com</a> &lt;<a href="mailto:pricing@reliablecapital.com" target="_blank">pricing@reliablecapital.com</a>&gt;; <a href="mailto:notifications@reliablecapital.com" target="_blank">notifications@reliablecapital.com</a> &lt;<a href="mailto:notifications@reliablecapital.com" target="_blank">notifications@reliablecapital.com</a>&gt;; <a href="mailto:partnersupport@reliablecapital.com" target="_blank">partnersupport@reliablecapital.com</a> &lt;<a href="mailto:partnersupport@reliablecapital.com" target="_blank">partnersupport@reliablecapital.com</a>&gt;; newdeals &lt;<a href="mailto:newdeals@bigthinkcapital.com" target="_blank">newdeals@bigthinkcapital.com</a>&gt;<br><b>Subject:</b> Application Approved - 596873 - GD REMODEL LLC</font> <div>&nbsp;</div></div><div style="box-sizing:border-box; font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; line-height:1.42857; color:rgb(51,51,51); background-color:rgb(255,255,255); margin:0px; padding:0px; word-spacing:normal"><div style="box-sizing:border-box"><div style="box-sizing:border-box; margin:0px auto; max-width:600px"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing:border-box; border-spacing:0px; background-color:transparent; border-collapse:collapse; width:100%"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing:border-box; border-collapse:collapse; direction:ltr; font-size:0px; padding:20px 0px; text-align:center"><div style="box-sizing:border-box; font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="box-sizing:border-box; border-spacing:0px; background-color:transparent; border-collapse:collapse; vertical-align:top"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing:border-box; background-color:transparent; border-collapse:collapse; border-spacing:0px"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; width:550px"><a style="box-sizing:border-box; background-color:transparent; color:rgb(51,122,183); text-decoration:none"><img height="auto" width="550" src="http://cdn.reliablecapital.com/images/RC-Banner.png" style="box-sizing:border-box; vertical-align:middle; line-height:100%; border:0px; display:block; outline:none; text-decoration:none; height:auto; width:100%; font-size:13px"> </a></td></tr></tbody></table></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:50px; line-height:50px"> </div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(23,23,23)">Dear <strong style="box-sizing:border-box; font-weight:700; color:rgb(57,182,213)">Big Think Capital Inc</strong>,</div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(23,23,23)">We are pleased to offer the following terms to <strong style="box-sizing:border-box; font-weight:700">GD REMODEL LLC</strong>.</div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><table cellpadding="0" cellspacing="0" width="100%" border="0" style="box-sizing:border-box; border-spacing:0px; background-color:transparent; border-collapse:collapse; color:rgb(0,0,0); font-family:Ubuntu,Helvetica,Arial,sans-serif; font-size:13px; line-height:22px; width:100%; border:none; table-layout:fixed"><tbody><tr style="box-sizing:border-box"><td bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:10px">Approved Amount</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:10px">Position</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1</td></tr><tr style="box-sizing:border-box"><td bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:10px">Number of Payments</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">44</td><td bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:10px">Payment Frequency</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">weekly</td></tr></tbody></table></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:15px; line-height:15px"> </div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(23,23,23)">Please click the button below to see your offer options.</div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(23,23,23)">To request for contracts or make changes, please email <a href="mailto:%20underwriting@reliablecapital.com" color="#39B6D5" target="_blank" style="box-sizing:border-box; background-color:transparent; text-decoration:none; color:rgb(57,182,213)">underwriting@reliablecapital.com</a>.</div></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:20px; line-height:20px"> </div></td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing:border-box; background-color:transparent; border-collapse:collapse; border-spacing:0px"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; width:150px"><a href="https://urldefense.com/v3/__https://reliablecapital.lendtech.io/ISO/offers.php?h=db46423f68319f39254a512a9f69bbe4619a268c2194440f1085141877907430&amp;id=8514__;!!CFX1eF0BNyXgeFGS!Hd6xK4hlWtyTv56Ylicn_-Yv4cU4fXu1O-GUxhvKupfvbHe_xkjV0skWnqO7AXWOaFD4-aq4RiQqMbKQL7zwG2U5G7qtcFVn_zM$" target="_blank" style="box-sizing:border-box; background-color:transparent; color:rgb(51,122,183); text-decoration:none"><img height="auto" width="150" src="http://cdn.reliablecapital.com/images/button-offer.png" style="box-sizing:border-box; vertical-align:middle; line-height:100%; border:0px; display:block; outline:none; text-decoration:none; height:auto; width:100%; font-size:13px"> </a></td></tr></tbody></table></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:10px; line-height:10px"> </div></td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:center; color:rgb(32,87,164)">Regular Offer</div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><table cellpadding="0" cellspacing="0" width="100%" border="0" style="box-sizing:border-box; border-spacing:0px; background-color:transparent; border-collapse:collapse; color:rgb(0,0,0); font-family:Ubuntu,Helvetica,Arial,sans-serif; font-size:13px; line-height:22px; width:100%; border:none; table-layout:fixed"><tbody><tr style="box-sizing:border-box; text-align:left; padding:15px 0px"><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Approved Amount</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Factor Rate</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Payback Amount</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Payment Amount</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Commission</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Number of Points</th></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.34</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$46,900.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,065.91</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$0.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">0</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.35</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$47,250.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,073.86</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$350.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.36</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$47,600.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,081.82</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$700.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">2</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.37</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$47,950.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,089.77</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,050.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">3</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.38</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$48,300.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,097.73</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,400.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">4</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.39</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$48,650.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,105.68</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,750.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">5</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.40</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$49,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,113.64</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$2,100.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">6</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.41</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$49,350.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,121.59</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$2,450.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">7</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.42</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$49,700.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,129.55</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$2,800.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">8</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.43</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$50,050.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,137.50</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$3,150.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">9</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.44</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$50,400.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,145.45</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$3,500.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">10</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.45</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$50,750.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,153.41</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$3,850.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">11</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.46</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$51,100.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$1,161.36</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$4,200.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">12</td></tr></tbody></table></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:20px; line-height:20px"> </div></td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px 0px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:center; color:rgb(32,87,164)">Standard Prepayment Discount</div></td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:0px 25px 10px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:14px; line-height:1; text-align:center; color:rgb(32,87,164)">Maximum Commission: 12 points</div></td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><table cellpadding="0" cellspacing="0" width="70%" border="0" style="box-sizing:border-box; border-spacing:0px; background-color:transparent; border-collapse:collapse; color:rgb(0,0,0); font-family:Ubuntu,Helvetica,Arial,sans-serif; font-size:13px; line-height:22px; width:70%; border:none; table-layout:fixed"><tbody><tr style="box-sizing:border-box; text-align:left; padding:15px 0px"><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Calendar Days</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Advance Amount</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Discount Value</th><th bgcolor="#39B6D5" align="center" style="box-sizing:border-box; padding:0px; border:1px solid rgb(32,87,164); background-color:rgb(57,182,213); color:rgb(255,255,255); text-align:center; font-size:14px">Payment Amount</th></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1 - 30</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.31</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$45,850.00</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">31 - 60</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.36</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$47,600.00</td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">61 - 90</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$35,000.00</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">1.41</td><td align="center" style="box-sizing:border-box; padding:0px; border-collapse:collapse; border:1px solid rgb(32,87,164); text-align:center; color:rgb(32,87,164)">$49,350.00</td></tr></tbody></table></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:20px; line-height:20px"> </div></td></tr><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:0px 25px 10px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:14px; line-height:1; text-align:center; color:rgb(32,87,164)">*This approval is subject to further underwriting.</div></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:15px; line-height:15px; color:rgb(32,87,164)">  </div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(23,23,23)">We may require additional items upon accepted offer.</div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(23,23,23)">Best,</div></td></tr><tr style="box-sizing:border-box"><td style="box-sizing:border-box; padding:0px; border-collapse:collapse; font-size:0px; word-break:break-word"><div style="box-sizing:border-box; height:15px; line-height:15px"> </div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px 0px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(32,87,164)">Underwriting Team</div></td></tr><tr style="box-sizing:border-box"><td align="left" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:5px 25px 10px; word-break:break-word"><div style="box-sizing:border-box; font-family:helvetica; font-size:15px; line-height:1; text-align:left; color:rgb(23,23,23)">Reliable Capital</div></td></tr></tbody></table></div></td></tr></tbody></table></div><br style="box-sizing:border-box"><br style="box-sizing:border-box"><div style="box-sizing:border-box; margin:0px auto; max-width:600px"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing:border-box; border-spacing:0px; background-color:transparent; border-collapse:collapse; width:100%"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing:border-box; border-collapse:collapse; direction:ltr; font-size:0px; padding:0px; text-align:center"><div style="box-sizing:border-box; font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="box-sizing:border-box; border-spacing:0px; background-color:transparent; border-collapse:collapse; vertical-align:top"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td align="center" style="box-sizing:border-box; border-collapse:collapse; font-size:0px; padding:10px 25px; word-break:break-word"><p style="box-sizing:border-box; display:block; border-top:12px solid rgb(57,182,213); font-size:1px; margin:0px auto; width:100%"></p></td></tr></tbody></table></div></td></tr></tbody></table></div></div></div></div></div></div></blockquote></div></blockquote></div></div></div></div></blockquote></div></div></div></blockquote></div></div></body></html>
+13:04:29.0 (6826105)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|activityDate|2026-03-30T18:01:49Z
+13:04:29.0 (6835602)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|toAddressList|Ralph M <ralph@reliablecapital.com>
+13:04:29.0 (6839114)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|subject|Re: Application Approved - 596873 - GD REMODEL LLC
+13:04:29.0 (6842516)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|fromAddress|Luckens Victor <luckens.victor@bigthinkcapital.com>
+13:04:29.0 (6846196)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|textBody|
+13:04:29.0 (6965228)|FLOW_ELEMENT_BEGIN|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|GetUsersFromEmailAddresses
+13:04:29.0 (7001272)|FLOW_ELEMENT_DEFERRED|FlowActionCall|GetUsersFromEmailAddresses
+13:04:29.0 (7040616)|FLOW_ELEMENT_END|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|GetUsersFromEmailAddresses
+13:04:29.0 (7080356)|FLOW_START_INTERVIEW_END|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|Activities: Match Email to Records
+13:04:29.0 (7096439)|FLOW_START_INTERVIEW_BEGIN|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|Activities: Match Email to Records
+13:04:29.0 (7121015)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL queries: 0 out of 100
+13:04:29.0 (7126645)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL query rows: 0 out of 50000
+13:04:29.0 (7130779)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOSL queries: 0 out of 20
+13:04:29.0 (7134928)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML statements: 0 out of 150
+13:04:29.0 (7138256)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML rows: 0 out of 10000
+13:04:29.0 (7141680)|FLOW_START_INTERVIEW_LIMIT_USAGE|CPU time in ms: 0 out of 15000
+13:04:29.0 (7145656)|FLOW_START_INTERVIEW_LIMIT_USAGE|Heap size in bytes: 0 out of 6000000
+13:04:29.0 (7149072)|FLOW_START_INTERVIEW_LIMIT_USAGE|Callouts: 0 out of 100
+13:04:29.0 (7152792)|FLOW_START_INTERVIEW_LIMIT_USAGE|Email invocations: 0 out of 10
+13:04:29.0 (7156165)|FLOW_START_INTERVIEW_LIMIT_USAGE|Future calls: 0 out of 50
+13:04:29.0 (7159300)|FLOW_START_INTERVIEW_LIMIT_USAGE|Jobs in queue: 0 out of 50
+13:04:29.0 (7162648)|FLOW_START_INTERVIEW_LIMIT_USAGE|Push notifications: 0 out of 10
+13:04:29.0 (7239120)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|activityId|1baVy000003EwqR
+13:04:29.0 (7243078)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|htmlBody|<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><div dir="auto">Awesome, thank you so much! I applied to both</div><div><br><div class="gmail_quote gmail_quote_container"><div dir="ltr" class="gmail_attr">On Mon, Mar 30, 2026 at 10:27 AM James Nunnery &lt;<a href="mailto:james.nunnery@bigthinkcapital.com">james.nunnery@bigthinkcapital.com</a>&gt; wrote:<br></div><blockquote class="gmail_quote" style="margin:0 0 0 .8ex; border-left:1px #ccc solid; padding-left:1ex"><div style="height:auto; min-height:auto"><span style="font-size:14px"><span style="font-family:Arial,Helvetica,sans-serif">Hi Janell,</span></span> <p><span style="font-size:14px"><span style="font-family:Arial,Helvetica,sans-serif">Based on the information provided, I have paired you with two lenders that we can take a look at. Once you connect the account with bank verification, you find out right away what you’re approved for.<br><br>Here are links to apply…</span></span><br><br><a href="https://urldefense.com/v3/__https://apiq-apiv1-c01.apiq.sfdc-lywfpd.svc.sfdcfc.net/r?target=69cab2675800b83a42b50075&amp;t=V2_eyJwX2l2IjoicVFaTTBYR0thSUQ4alFHdERralRTUVx1MDAzZFx1MDAzZCIsInBfZW5jcnlwdGVkX2RhdGEiOiJ2ZUx2ZzVFQW8yMTBhSTIrZ1pJTjAxVjkxc1RheExaR3d1ajgwVmxVcHYwXHUwMDNkIiwicF9vcmQiOiIxIiwicF9pZCI6IjQifXx7InBfaXYiOiJaZ2tsQUlSNElzc2RmVGM2cjFsVFZ3XHUwMDNkXHUwMDNkIiwicF9lbmNyeXB0ZWRfZGF0YSI6Imwzc0M2UUh5WFUwOHhDMEc0Y1dMaC9aWWdmdEZZWExxQTFmSytmNExhaHRUKzRyK3J5Y0lCRjRleGdRSk9ad3BELzluNXhZNCtzb3I5SEVrNTVodlBBXHUwMDNkXHUwMDNkIiwicF9vcmQiOiIxIiwicF9pZCI6IjI0MDcwIn0*3D&amp;url=https*3A*2F*2Fgigglefinance.com*2Fbig-think-capital*2F__;JSUlJSUl!!CFX1eF0BNyXgeFGS!FWDyqLIkBG5U20vv9OaFc3jdEZ2EOz-qo3ewBS_ZEinbFGxFOQjGpJiA76y9X6JH_vj2XwV-XpU0IrDZHvH484SK4CdFvE1i$" title="https://gigglefinance.com/big-think-capital/" target="_blank"><span style="font-size:14px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>Giggle - Apply Here</strong></span></span></a><br><br><a href="https://urldefense.com/v3/__https://apiq-apiv1-c01.apiq.sfdc-lywfpd.svc.sfdcfc.net/r?target=69cab2675800b83a42b50074&amp;t=V2_eyJwX2l2IjoicVFaTTBYR0thSUQ4alFHdERralRTUVx1MDAzZFx1MDAzZCIsInBfZW5jcnlwdGVkX2RhdGEiOiJ2ZUx2ZzVFQW8yMTBhSTIrZ1pJTjAxVjkxc1RheExaR3d1ajgwVmxVcHYwXHUwMDNkIiwicF9vcmQiOiIxIiwicF9pZCI6IjQifXx7InBfaXYiOiJaZ2tsQUlSNElzc2RmVGM2cjFsVFZ3XHUwMDNkXHUwMDNkIiwicF9lbmNyeXB0ZWRfZGF0YSI6Imwzc0M2UUh5WFUwOHhDMEc0Y1dMaC9aWWdmdEZZWExxQTFmSytmNExhaHRUKzRyK3J5Y0lCRjRleGdRSk9ad3BELzluNXhZNCtzb3I5SEVrNTVodlBBXHUwMDNkXHUwMDNkIiwicF9vcmQiOiIxIiwicF9pZCI6IjI0MDcwIn0*3D&amp;url=https*3A*2F*2Fapp.fundo.com*2Fnew-lead*3FPID*3D46*250D__;JSUlJSUlJSU!!CFX1eF0BNyXgeFGS!FWDyqLIkBG5U20vv9OaFc3jdEZ2EOz-qo3ewBS_ZEinbFGxFOQjGpJiA76y9X6JH_vj2XwV-XpU0IrDZHvH484SK4KYrQ9nI$" title="https://app.fundo.com/new-lead?PID=46%0D" target="_blank"><span style="font-size:14px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>Fundo - Apply Here</strong></span></span></a></p><p><span style="font-size:14px"><span style="font-family:Arial,Helvetica,sans-serif">Best Regards,</span></span></p><p>&nbsp;</p><img alt="" height="1" width="1" src="https://apiq-apiv1-c01.apiq.sfdc-lywfpd.svc.sfdcfc.net/t.png?c=lex&amp;t=V2_eyJwX2l2IjoicVFaTTBYR0thSUQ4alFHdERralRTUVx1MDAzZFx1MDAzZCIsInBfZW5jcnlwdGVkX2RhdGEiOiJ2ZUx2ZzVFQW8yMTBhSTIrZ1pJTjAxVjkxc1RheExaR3d1ajgwVmxVcHYwXHUwMDNkIiwicF9vcmQiOiIxIiwicF9pZCI6IjQifXx7InBfaXYiOiJaZ2tsQUlSNElzc2RmVGM2cjFsVFZ3XHUwMDNkXHUwMDNkIiwicF9lbmNyeXB0ZWRfZGF0YSI6Imwzc0M2UUh5WFUwOHhDMEc0Y1dMaC9aWWdmdEZZWExxQTFmSytmNExhaHRUKzRyK3J5Y0lCRjRleGdRSk9ad3BELzluNXhZNCtzb3I5SEVrNTVodlBBXHUwMDNkXHUwMDNkIiwicF9vcmQiOiIxIiwicF9pZCI6IjI0MDcwIn0%3D" style="display:none"> </div></blockquote></div></div></body></html>
+13:04:29.0 (7284166)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|activityDate|2026-03-30T18:01:20Z
+13:04:29.0 (7287555)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|toAddressList|
+13:04:29.0 (7290690)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|subject|Re: Janell - Funding Options
+13:04:29.0 (7293467)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|fromAddress|
+13:04:29.0 (7296405)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|textBody|
+13:04:29.0 (7299086)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|ccAddressList|
+13:04:29.0 (7354802)|FLOW_ELEMENT_BEGIN|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|GetUsersFromEmailAddresses
+13:04:29.0 (7368644)|FLOW_ELEMENT_DEFERRED|FlowActionCall|GetUsersFromEmailAddresses
+13:04:29.0 (7388433)|FLOW_ELEMENT_END|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|GetUsersFromEmailAddresses
+13:04:29.0 (7405409)|FLOW_START_INTERVIEW_END|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|Activities: Match Email to Records
+13:04:29.0 (7423818)|FLOW_BULK_ELEMENT_BEGIN|FlowActionCall|GetUsersFromEmailAddresses
+13:04:29.0 (34982340)|FLOW_ACTIONCALL_DETAIL|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetUsersFromEmailAddresses|Get Users from Email Addresses|getUsersFromEmailAddresses|true|
+13:04:29.0 (35834727)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetUsersFromEmailAddresses|{unmatchedEmailAddresses=[ralph@reliablecapital.com], users=[[User (Email:luckens.victor@bigthinkcapital.com, IsActive:true, LastLoginDate:Mon Mar 30 17:18:07 GMT 2026, Id:005Vy000003q4IjIAI)]]}
+13:04:29.0 (35856261)|FLOW_ACTIONCALL_DETAIL|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetUsersFromEmailAddresses|Get Users from Email Addresses|getUsersFromEmailAddresses|true|
+13:04:29.0 (35873036)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetUsersFromEmailAddresses|{unmatchedEmailAddresses=[], users=[]}
+13:04:29.0 (35912368)|FLOW_ACTIONCALL_DETAIL|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetUsersFromEmailAddresses|Get Users from Email Addresses|getUsersFromEmailAddresses|true|
+13:04:29.0 (35916958)|FLOW_ACTIONCALL_DETAIL|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetUsersFromEmailAddresses|Get Users from Email Addresses|getUsersFromEmailAddresses|true|
+13:04:29.0 (36048885)|FLOW_BULK_ELEMENT_LIMIT_USAGE|18 ms CPU time, total 18 out of 15000
+13:04:29.0 (36091886)|FLOW_BULK_ELEMENT_END|FlowActionCall|GetUsersFromEmailAddresses|0|28
+13:04:29.0 (36154815)|FLOW_ELEMENT_BEGIN|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|GetContcLeadsFromEmailAddr
+13:04:29.0 (36172990)|FLOW_ELEMENT_DEFERRED|FlowActionCall|GetContcLeadsFromEmailAddr
+13:04:29.0 (36190543)|FLOW_ELEMENT_END|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|GetContcLeadsFromEmailAddr
+13:04:29.0 (36197148)|FLOW_ELEMENT_BEGIN|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|GetContcLeadsFromEmailAddr
+13:04:29.0 (36204074)|FLOW_ELEMENT_DEFERRED|FlowActionCall|GetContcLeadsFromEmailAddr
+13:04:29.0 (36212790)|FLOW_ELEMENT_END|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|GetContcLeadsFromEmailAddr
+13:04:29.0 (36233608)|FLOW_BULK_ELEMENT_BEGIN|FlowActionCall|GetContcLeadsFromEmailAddr
+13:04:29.0 (40580828)|FLOW_ACTIONCALL_DETAIL|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetContcLeadsFromEmailAddr|Get Contacts and Leads from Email Addresses|getContcLeadsFromEmailAddr|true|
+13:04:29.0 (40981637)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetContcLeadsFromEmailAddr|{unmatchedEmailAddresses=[ralph@reliablecapital.com], accountField=, comparisonOperator=, leads=[], value=, hasPartnerAccounts=false, contacts=[]}
+13:04:29.0 (41001432)|FLOW_ACTIONCALL_DETAIL|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetContcLeadsFromEmailAddr|Get Contacts and Leads from Email Addresses|getContcLeadsFromEmailAddr|true|
+13:04:29.0 (41034615)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetContcLeadsFromEmailAddr|{unmatchedEmailAddresses=[], accountField=, comparisonOperator=, leads=[], value=, hasPartnerAccounts=false, contacts=[]}
+13:04:29.0 (41069822)|FLOW_ACTIONCALL_DETAIL|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetContcLeadsFromEmailAddr|Get Contacts and Leads from Email Addresses|getContcLeadsFromEmailAddr|true|
+13:04:29.0 (41076447)|FLOW_ACTIONCALL_DETAIL|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetContcLeadsFromEmailAddr|Get Contacts and Leads from Email Addresses|getContcLeadsFromEmailAddr|true|
+13:04:29.0 (41207338)|FLOW_BULK_ELEMENT_LIMIT_USAGE|3 ms CPU time, total 21 out of 15000
+13:04:29.0 (41228357)|FLOW_BULK_ELEMENT_END|FlowActionCall|GetContcLeadsFromEmailAddr|0|4
+13:04:29.0 (41274180)|FLOW_ELEMENT_BEGIN|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|GetAcctOpptyFromEmailAddr
+13:04:29.0 (41294315)|FLOW_ELEMENT_DEFERRED|FlowActionCall|GetAcctOpptyFromEmailAddr
+13:04:29.0 (41314278)|FLOW_ELEMENT_END|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|GetAcctOpptyFromEmailAddr
+13:04:29.0 (41323102)|FLOW_ELEMENT_BEGIN|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|GetAcctOpptyFromEmailAddr
+13:04:29.0 (41331945)|FLOW_ELEMENT_DEFERRED|FlowActionCall|GetAcctOpptyFromEmailAddr
+13:04:29.0 (41343438)|FLOW_ELEMENT_END|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|GetAcctOpptyFromEmailAddr
+13:04:29.0 (41360529)|FLOW_BULK_ELEMENT_BEGIN|FlowActionCall|GetAcctOpptyFromEmailAddr
+13:04:29.0 (139625118)|FLOW_ACTIONCALL_DETAIL|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetAcctOpptyFromEmailAddr|Get Account and Opportunity from Email Addresses|getAcctOpptyFromEmailAddr|true|
+13:04:29.0 (139946315)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetAcctOpptyFromEmailAddr|{unmatchedEmailAddresses=[ralph@reliablecapital.com], opportunity=null, account=null}
+13:04:29.0 (139959424)|FLOW_ACTIONCALL_DETAIL|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetAcctOpptyFromEmailAddr|Get Account and Opportunity from Email Addresses|getAcctOpptyFromEmailAddr|true|
+13:04:29.0 (139974821)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetAcctOpptyFromEmailAddr|{unmatchedEmailAddresses=[], opportunity=null, account=null}
+13:04:29.0 (140007600)|FLOW_ACTIONCALL_DETAIL|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|GetAcctOpptyFromEmailAddr|Get Account and Opportunity from Email Addresses|getAcctOpptyFromEmailAddr|true|
+13:04:29.0 (140013089)|FLOW_ACTIONCALL_DETAIL|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|GetAcctOpptyFromEmailAddr|Get Account and Opportunity from Email Addresses|getAcctOpptyFromEmailAddr|true|
+13:04:29.0 (140127149)|FLOW_BULK_ELEMENT_LIMIT_USAGE|9 ms CPU time, total 30 out of 15000
+13:04:29.0 (140146808)|FLOW_BULK_ELEMENT_END|FlowActionCall|GetAcctOpptyFromEmailAddr|0|98
+13:04:29.0 (140192802)|FLOW_ELEMENT_BEGIN|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|AssociateRecordsToActivity
+13:04:29.0 (140210761)|FLOW_ELEMENT_DEFERRED|FlowActionCall|AssociateRecordsToActivity
+13:04:29.0 (140227245)|FLOW_ELEMENT_END|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|FlowActionCall|AssociateRecordsToActivity
+13:04:29.0 (140233329)|FLOW_ELEMENT_BEGIN|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|AssociateRecordsToActivity
+13:04:29.0 (140240144)|FLOW_ELEMENT_DEFERRED|FlowActionCall|AssociateRecordsToActivity
+13:04:29.0 (140248539)|FLOW_ELEMENT_END|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|FlowActionCall|AssociateRecordsToActivity
+13:04:29.0 (140264346)|FLOW_BULK_ELEMENT_BEGIN|FlowActionCall|AssociateRecordsToActivity
+13:04:29.211 (211492802)|CODE_UNIT_STARTED|[EXTERNAL]|Flow:Task
+13:04:29.211 (211526917)|CODE_UNIT_FINISHED|Flow:Task
+13:04:29.231 (231046348)|CUMULATIVE_LIMIT_USAGE
+13:04:29.231 (231046348)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 30 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.231 (231046348)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.248 (248810082)|SOQL_EXECUTE_BEGIN|[117]|Aggregations:0|SELECT Id, UTC_Offset_F__c, Timezone_F__c FROM Lead WHERE Id IN :tmpVar1
+13:04:29.248 (270184056)|SOQL_EXECUTE_END|[117]|Rows:1
+13:04:29.271 (271182975)|CUMULATIVE_LIMIT_USAGE
+13:04:29.271 (271182975)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.271 (271182975)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.271 (271182975)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.351 (351994660)|CODE_UNIT_STARTED|[EXTERNAL]|01qVy000002ugxt|UpdateLastEmailSentDate on Task trigger event AfterInsert|__sfdc_trigger/UpdateLastEmailSentDate
+13:04:29.353 (353437745)|CUMULATIVE_LIMIT_USAGE
+13:04:29.353 (353437745)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.353 (353437745)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.353 (353437745)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.351 (353627691)|CODE_UNIT_FINISHED|UpdateLastEmailSentDate on Task trigger event AfterInsert|__sfdc_trigger/UpdateLastEmailSentDate
+13:04:29.354 (354841576)|CUMULATIVE_LIMIT_USAGE
+13:04:29.354 (354841576)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.354 (354841576)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.354 (354841576)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.355 (355112376)|CODE_UNIT_STARTED|[EXTERNAL]|Flow:Task
+13:04:29.357 (357270392)|FLOW_CREATE_INTERVIEW_BEGIN|00DHp000004AXPa|300Vy00000FfO5l|301Vy00000EZwh5
+13:04:29.357 (357363109)|FLOW_CREATE_INTERVIEW_END|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|Last email sent date (Lead)
+13:04:29.357 (357649523)|FLOW_START_INTERVIEWS_BEGIN|1
+13:04:29.357 (357691557)|FLOW_START_INTERVIEW_BEGIN|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|Last email sent date (Lead)
+13:04:29.357 (357748165)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL queries: 0 out of 100
+13:04:29.357 (357756731)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL query rows: 0 out of 50000
+13:04:29.357 (357762714)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOSL queries: 0 out of 20
+13:04:29.357 (357768099)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML statements: 0 out of 150
+13:04:29.357 (357773142)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML rows: 0 out of 10000
+13:04:29.357 (357778793)|FLOW_START_INTERVIEW_LIMIT_USAGE|CPU time in ms: 0 out of 15000
+13:04:29.357 (357893816)|FLOW_START_INTERVIEW_LIMIT_USAGE|Heap size in bytes: 4326 out of 6000000
+13:04:29.357 (357900556)|FLOW_START_INTERVIEW_LIMIT_USAGE|Callouts: 0 out of 100
+13:04:29.357 (357906609)|FLOW_START_INTERVIEW_LIMIT_USAGE|Email invocations: 0 out of 10
+13:04:29.357 (357912479)|FLOW_START_INTERVIEW_LIMIT_USAGE|Future calls: 0 out of 50
+13:04:29.357 (357917879)|FLOW_START_INTERVIEW_LIMIT_USAGE|Jobs in queue: 0 out of 50
+13:04:29.357 (357923484)|FLOW_START_INTERVIEW_LIMIT_USAGE|Push notifications: 0 out of 10
+13:04:29.357 (363160216)|FLOW_VALUE_ASSIGNMENT|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|$Record|{Id=00TVy00001cflHeMAI, WhoId=00QVy00000d4BMbMAM, WhatId=null, WhoCount=1, WhatCount=0, Subject=Email: Re: Janell - Funding Options, ActivityDate=2026-03-30 00:00:00, Status=Completed, Priority=Normal, IsHighPriority=false, OwnerId=005Vy00000E8SQTIA3, Description=To: james.nunnery@bigthinkcapital.com
+CC: 
+BCC: 
+Attachment: --none--
+
+Subject: Re: Janell - Funding Options
+Body:
+Awesome, thank you so much! I applied to both
+On Mon, Mar 30, 2026 at 10:27 AM James Nunnery <james.nunnery@bigthinkcapital.com> wrote:
+Hi Janell, Based on the information provided, I have paired you with two lenders that we can take a look at. Once you connect the account with bank verification, you find out right away what you’re approved for.
+
+Here are links to apply…
+
+Giggle - Apply Here
+
+Fundo - Apply HereBest Regards, , Type=null, IsDeleted=false, AccountId=null, IsClosed=true, CreatedDate=2026-03-30 18:04:29, CreatedById=005Hp00000iw8lfIAA, LastModifiedDate=2026-03-30 18:04:29, LastModifiedById=005Hp00000iw8lfIAA, SystemModstamp=2026-03-30 18:04:29, IsArchived=false, IsVisibleInSelfService=false, CallDurationInSeconds=null, CallType=null, CallDisposition=null, CallObject=null, ReminderDateTime=null, IsReminderSet=false, RecurrenceActivityId=null, IsRecurrence=false, RecurrenceStartDateOnly=null, RecurrenceEndDateOnly=null, RecurrenceTimeZoneSidKey=null, RecurrenceType=null, RecurrenceInterval=null, RecurrenceDayOfWeekMask=null, RecurrenceDayOfMonth=null, RecurrenceInstance=null, RecurrenceMonthOfYear=null, RecurrenceRegeneratedType=null, TaskSubtype=Email, CompletedDateTime=2026-03-30 18:01:20, ActionCadenceStepTrackerId=null, TwilioSF__Message_SID__c=null, TwilioSF__To_Number__c=null, Calendly__InviteeUuid__c=null, Calendly__IsNoShow__c=false, Calendly__IsRescheduled__c=false, tubl__Direction__c=null, tubl__Message__c=null, rcsfl__CALL_UNIQUE_ID__c=null, rcsfl__CALL_UUID__c=null, rcsfl__RC_Logging_Type__c=null, rcsfl__Recording_Information__c=null, rcsfl__call_end_time__c=null, rcsfl__call_start_time__c=null, rcsfl__callee_location__c=null, rcsfl__callee_name__c=null, rcsfl__caller_location__c=null, rcsfl__caller_name__c=null, rcsfl__external_whoid__c=null, rcsfl__from_number__c=null, rcsfl__hvs_disposition__c=null, rcsfl__key__c=null, rcsfl__to_number__c=null, rcsfl__Call_Recording__c=null, tubl__TextUs_Call__c=null, tubl__TextUs_Message__c=null, jc_dialer__All_Call_Type__c=null, jc_dialer__ConnectionStatus__c=null, jc_dialer__DayInWeek__c=null, jc_dialer__HoursDay__c=null, tz__Timezone__c=PDT, tz__UTC_Offset__c=-7.0, tz__Local_Time__c=03/30/2026 11:04 AM PDT, yw__SyncedFromYesware__c=false, yw__YeswareAttachmentOpens__c=null, yw__YeswareBounces__c=null, yw__YeswareFirstAttachmentOpenAt__c=null, yw__YeswareFirstBounceAt__c=null, yw__YeswareFirstLinkClickAt__c=null, yw__YeswareFirstOpenAt__c=null, yw__YeswareFirstPresentationViewAt__c=null, yw__YeswareFirstReplyAt__c=null, yw__YeswareLastAttachmentOpenAt__c=null, yw__YeswareLastBounceAt__c=null, yw__YeswareLastLinkClickAt__c=null, yw__YeswareLastOpenAt__c=null, yw__YeswareLastPresentationViewAt__c=null, yw__YeswareLastReplyAt__c=null, yw__YeswareLinkClicks__c=null, yw__YeswareOpens__c=null, yw__YeswarePresentationViews__c=null, yw__YeswareReplies__c=null}
+13:04:29.357 (363347749)|FLOW_ELEMENT_BEGIN|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|FlowRecordUpdate|Update_Records_1
+13:04:29.357 (363455998)|FLOW_ELEMENT_DEFERRED|FlowRecordUpdate|Update_Records_1
+13:04:29.357 (363512123)|FLOW_ELEMENT_LIMIT_USAGE|4 ms CPU time, total 4 out of 15000
+13:04:29.357 (363536155)|FLOW_ELEMENT_END|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|FlowRecordUpdate|Update_Records_1
+13:04:29.357 (363556303)|FLOW_START_INTERVIEW_END|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|Last email sent date (Lead)
+13:04:29.357 (363603375)|FLOW_BULK_ELEMENT_BEGIN|FlowRecordUpdate|Update_Records_1
+13:04:29.357 (369539294)|FLOW_BULK_ELEMENT_DETAIL|FlowRecordUpdate|Update_Records_1|1
+13:04:29.382 (382470637)|CODE_UNIT_STARTED|[EXTERNAL]|Flow:Lead
+13:04:29.382 (384182982)|CODE_UNIT_FINISHED|Flow:Lead
+13:04:29.395 (395199398)|CUMULATIVE_LIMIT_USAGE
+13:04:29.395 (395199398)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 4 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.395 (395199398)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.395 (395199398)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.399 (399003978)|CUMULATIVE_LIMIT_USAGE
+13:04:29.399 (399003978)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 4 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.399 (399003978)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.399 (399003978)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.406 (406399446)|CUMULATIVE_LIMIT_USAGE
+13:04:29.406 (406399446)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 4 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.406 (406399446)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.406 (406399446)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.408 (408859338)|CUMULATIVE_LIMIT_USAGE
+13:04:29.408 (408859338)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 4 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.408 (408859338)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.408 (408859338)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.409 (409636753)|CODE_UNIT_STARTED|[EXTERNAL]|01qVy00000Afq1h|dlrs_LeadTrigger on Lead trigger event BeforeUpdate|__sfdc_trigger/dlrs_LeadTrigger
+13:04:29.410 (410002403)|CUMULATIVE_LIMIT_USAGE
+13:04:29.410 (410002403)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 4 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.410 (410002403)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.410 (410002403)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.409 (410138263)|CODE_UNIT_FINISHED|dlrs_LeadTrigger on Lead trigger event BeforeUpdate|__sfdc_trigger/dlrs_LeadTrigger
+13:04:29.418 (418237642)|SOQL_EXECUTE_BEGIN|[20]|Aggregations:0|SELECT Id, Name, Value__c FROM Mapping__c WHERE Value__c != null LIMIT 1500
+13:04:29.418 (423988868)|SOQL_EXECUTE_END|[20]|Rows:0
+13:04:29.418 (427326080)|SOQL_EXECUTE_BEGIN|[19]|Aggregations:0|SELECT Id, MasterLabel, Country__c FROM lt_country_names__mdt WHERE MasterLabel = :tmpVar1 WITH SYSTEM_MODE LIMIT 1500
+13:04:29.418 (439340277)|SOQL_EXECUTE_END|[19]|Rows:1
+13:04:29.418 (441885353)|SOQL_EXECUTE_BEGIN|[50]|Aggregations:0|SELECT Id, MasterLabel, State__c FROM lt_state_codes__mdt WHERE MasterLabel = :tmpVar1 WITH SYSTEM_MODE LIMIT 1500
+13:04:29.418 (450459110)|SOQL_EXECUTE_END|[50]|Rows:0
+13:04:29.418 (454582009)|SOQL_EXECUTE_BEGIN|[459]|Aggregations:0|SELECT Postal_Code__c, Country__r.Country__c, State__c, Timezone__r.Abbr__c, Timezone__r.Offset__c, Timezone__r.Full_Name__c, Timezone__r.Timezone_IANA__c, Timezone__r.Timezone_SFDC__c, DST_Timezone__r.Abbr__c, DST_Timezone__r.Offset__c, DST_Timezone__r.Full_Name__c FROM lt_timezones__mdt WHERE (Country__r.Country__c IN :tmpVar1 AND Postal_Code__c = :tmpVar2) WITH SYSTEM_MODE LIMIT 15000
+13:04:29.418 (548933441)|SOQL_EXECUTE_END|[459]|Rows:0
+13:04:29.418 (550925297)|SOQL_EXECUTE_BEGIN|[381]|Aggregations:0|SELECT State__c, Country__r.Country__c, Timezone__r.Abbr__c, Timezone__r.Offset__c, Timezone__r.Full_Name__c, Timezone__r.Timezone_IANA__c, Timezone__r.Timezone_SFDC__c, DST_Timezone__r.Abbr__c, DST_Timezone__r.Offset__c, DST_Timezone__r.Full_Name__c FROM lt_timezones__mdt WHERE (Country__r.Country__c IN :tmpVar1 AND State__c IN :tmpVar2 AND Primary__c = TRUE AND City__c = NULL AND Postal_Code__c = NULL) WITH SYSTEM_MODE LIMIT 15000
+13:04:29.418 (584620674)|SOQL_EXECUTE_END|[381]|Rows:1
+13:04:29.418 (586229030)|SOQL_EXECUTE_BEGIN|[487]|Aggregations:0|SELECT City__c, State__c, Country__r.Country__c, Timezone__r.Abbr__c, Timezone__r.Offset__c, Timezone__r.Full_Name__c, Timezone__r.Timezone_IANA__c, Timezone__r.Timezone_SFDC__c, DST_Timezone__r.Abbr__c, DST_Timezone__r.Offset__c, DST_Timezone__r.Full_Name__c FROM lt_timezones__mdt WHERE (Country__r.Country__c IN :tmpVar1 AND City__c = :tmpVar2) WITH SYSTEM_MODE LIMIT 15000
+13:04:29.418 (605467652)|SOQL_EXECUTE_END|[487]|Rows:0
+13:04:29.418 (606757851)|SOQL_EXECUTE_BEGIN|[517]|Aggregations:0|SELECT MasterLabel, Country__r.Country__c, State__c, Timezone__r.Abbr__c, Timezone__r.Offset__c, Timezone__r.Full_Name__c, Timezone__r.Timezone_IANA__c, Timezone__r.Timezone_SFDC__c, DST_Timezone__r.Abbr__c, DST_Timezone__r.Offset__c, DST_Timezone__r.Full_Name__c FROM lt_timezones__mdt WHERE (MasterLabel IN :tmpVar1 AND State__c = NULL AND City__c = NULL AND Inactive__c = FALSE) WITH SYSTEM_MODE LIMIT 15000
+13:04:29.418 (668144498)|SOQL_EXECUTE_END|[517]|Rows:0
+13:04:29.418 (669254500)|SOQL_EXECUTE_BEGIN|[22]|Aggregations:0|SELECT Country_Code__c, Area_Code_Lengths__c FROM Country_Phone_Codes__mdt WITH SYSTEM_MODE LIMIT 15000
+13:04:29.418 (689291119)|SOQL_EXECUTE_END|[22]|Rows:230
+13:04:29.418 (699859670)|SOQL_EXECUTE_BEGIN|[70]|Aggregations:0|SELECT Country_Code__c, Area_Code__c, State__c, Country1__r.Country__c, Timezone__r.Abbr__c, Timezone__r.Offset__c, Timezone__r.Full_Name__c, Timezone__r.Timezone_IANA__c, Timezone__r.Timezone_SFDC__c, DST_Timezone__r.Abbr__c, DST_Timezone__r.Offset__c, DST_Timezone__r.Full_Name__c FROM lt_area_codes__mdt WHERE (Country_Code__c = :tmpVar1 AND Area_Code__c = :tmpVar2) WITH SYSTEM_MODE LIMIT 15000
+13:04:29.418 (728077824)|SOQL_EXECUTE_END|[70]|Rows:1
+13:04:29.418 (730666128)|SOQL_EXECUTE_BEGIN|[18]|Aggregations:0|SELECT Id, Name, DST__c FROM DST_Setting__c WHERE Name = :tmpVar1 LIMIT 1000
+13:04:29.418 (739213928)|SOQL_EXECUTE_END|[18]|Rows:1
+13:04:29.742 (742810748)|CUMULATIVE_LIMIT_USAGE
+13:04:29.742 (742810748)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 200 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.742 (742810748)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 235 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.742 (742810748)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.744 (744536820)|CODE_UNIT_STARTED|[EXTERNAL]|01qVy00000MRtrl|LeadOwnerChangeRestriction on Lead trigger event BeforeUpdate|__sfdc_trigger/LeadOwnerChangeRestriction
+13:04:29.744 (745180000)|SOQL_EXECUTE_BEGIN|[4]|Aggregations:0|SELECT Id, UserRoleId FROM User WHERE Id = :tmpVar1
+13:04:29.744 (748477914)|SOQL_EXECUTE_END|[4]|Rows:1
+13:04:29.744 (749088996)|SOQL_EXECUTE_BEGIN|[5]|Aggregations:0|SELECT Name FROM UserRole WHERE Id = :tmpVar1
+13:04:29.744 (750955155)|SOQL_EXECUTE_END|[5]|Rows:0
+13:04:29.744 (751246274)|FATAL_ERROR|System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1
+13:04:29.744 (751258273)|FATAL_ERROR|System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1
+13:04:29.751 (751290650)|CUMULATIVE_LIMIT_USAGE
+13:04:29.751 (751290650)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 2 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 200 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.751 (751290650)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 235 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.751 (751290650)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.744 (751466543)|CODE_UNIT_FINISHED|LeadOwnerChangeRestriction on Lead trigger event BeforeUpdate|__sfdc_trigger/LeadOwnerChangeRestriction
+13:04:29.357 (775634312)|FLOW_VALUE_ASSIGNMENT|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|Update_Records_1|false
+13:04:29.357 (775807444)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 SOQL queries, total 1 out of 100
+13:04:29.357 (775815215)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 SOQL query rows, total 1 out of 50000
+13:04:29.357 (775820196)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 DML statements, total 1 out of 150
+13:04:29.357 (775824467)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 DML rows, total 1 out of 10000
+13:04:29.357 (775828560)|FLOW_BULK_ELEMENT_LIMIT_USAGE|19 ms CPU time, total 23 out of 15000
+13:04:29.357 (776027414)|FLOW_BULK_ELEMENT_LIMIT_USAGE|6109 bytes heap size, total 10435 out of 6000000
+13:04:29.357 (776050367)|FLOW_BULK_ELEMENT_END|FlowRecordUpdate|Update_Records_1|0|412
+13:04:29.357 (780741908)|FLOW_VALUE_ASSIGNMENT|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|error.errorId|37112698-80342 (1722179010)
+13:04:29.357 (780755607)|FLOW_VALUE_ASSIGNMENT|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|error.type|FLOW_INTERVIEW_SAVE_RESULT
+13:04:29.357 (780758737)|FLOW_VALUE_ASSIGNMENT|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|error.apiErrorCode|CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY
+13:04:29.357 (780762107)|FLOW_VALUE_ASSIGNMENT|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|error.message|This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide.
+13:04:29.357 (780766778)|FLOW_VALUE_ASSIGNMENT|47684827f7a6fbec75844fa30bae19d3fb327d8-7189|error.endUserMessage|This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide.
+13:04:29.357 (953706253)|FLOW_ELEMENT_ERROR|The flow tried to update these records: 00QVy00000d4BMbMAM. This error occurred: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the <a href='https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_calls_concepts_core_data_objects.htm#'>SOAP API Developer Guide</a>.|FlowRecordUpdate|Update_Records_1
+13:04:29.357 (953900283)|FLOW_START_INTERVIEWS_END|1
+13:04:29.956 (956874288)|FLOW_CREATE_INTERVIEW_BEGIN|00DHp000004AXPa|300Vy00000FOkAm|301Vy00000TZm4I
+13:04:29.956 (956955985)|FLOW_CREATE_INTERVIEW_END|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|Last Email sent date (Opp)
+13:04:29.957 (957163123)|FLOW_START_INTERVIEWS_BEGIN|1
+13:04:29.957 (957190299)|FLOW_START_INTERVIEW_BEGIN|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|Last Email sent date (Opp)
+13:04:29.957 (957233028)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL queries: 1 out of 100
+13:04:29.957 (957239489)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL query rows: 1 out of 50000
+13:04:29.957 (957243798)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOSL queries: 0 out of 20
+13:04:29.957 (957248679)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML statements: 1 out of 150
+13:04:29.957 (957252812)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML rows: 1 out of 10000
+13:04:29.957 (957256686)|FLOW_START_INTERVIEW_LIMIT_USAGE|CPU time in ms: 0 out of 15000
+13:04:29.957 (957477326)|FLOW_START_INTERVIEW_LIMIT_USAGE|Heap size in bytes: 10435 out of 6000000
+13:04:29.957 (957482451)|FLOW_START_INTERVIEW_LIMIT_USAGE|Callouts: 0 out of 100
+13:04:29.957 (957486326)|FLOW_START_INTERVIEW_LIMIT_USAGE|Email invocations: 0 out of 10
+13:04:29.957 (957490289)|FLOW_START_INTERVIEW_LIMIT_USAGE|Future calls: 0 out of 50
+13:04:29.957 (957493634)|FLOW_START_INTERVIEW_LIMIT_USAGE|Jobs in queue: 0 out of 50
+13:04:29.957 (957497131)|FLOW_START_INTERVIEW_LIMIT_USAGE|Push notifications: 0 out of 10
+13:04:29.957 (958807440)|FLOW_VALUE_ASSIGNMENT|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|$Record|{Id=00TVy00001cflHeMAI, WhoId=00QVy00000d4BMbMAM, WhatId=null, WhoCount=1, WhatCount=0, Subject=Email: Re: Janell - Funding Options, ActivityDate=2026-03-30 00:00:00, Status=Completed, Priority=Normal, IsHighPriority=false, OwnerId=005Vy00000E8SQTIA3, Description=To: james.nunnery@bigthinkcapital.com
+CC: 
+BCC: 
+Attachment: --none--
+
+Subject: Re: Janell - Funding Options
+Body:
+Awesome, thank you so much! I applied to both
+On Mon, Mar 30, 2026 at 10:27 AM James Nunnery <james.nunnery@bigthinkcapital.com> wrote:
+Hi Janell, Based on the information provided, I have paired you with two lenders that we can take a look at. Once you connect the account with bank verification, you find out right away what you’re approved for.
+
+Here are links to apply…
+
+Giggle - Apply Here
+
+Fundo - Apply HereBest Regards, , Type=null, IsDeleted=false, AccountId=null, IsClosed=true, CreatedDate=2026-03-30 18:04:29, CreatedById=005Hp00000iw8lfIAA, LastModifiedDate=2026-03-30 18:04:29, LastModifiedById=005Hp00000iw8lfIAA, SystemModstamp=2026-03-30 18:04:29, IsArchived=false, IsVisibleInSelfService=false, CallDurationInSeconds=null, CallType=null, CallDisposition=null, CallObject=null, ReminderDateTime=null, IsReminderSet=false, RecurrenceActivityId=null, IsRecurrence=false, RecurrenceStartDateOnly=null, RecurrenceEndDateOnly=null, RecurrenceTimeZoneSidKey=null, RecurrenceType=null, RecurrenceInterval=null, RecurrenceDayOfWeekMask=null, RecurrenceDayOfMonth=null, RecurrenceInstance=null, RecurrenceMonthOfYear=null, RecurrenceRegeneratedType=null, TaskSubtype=Email, CompletedDateTime=2026-03-30 18:01:20, ActionCadenceStepTrackerId=null, TwilioSF__Message_SID__c=null, TwilioSF__To_Number__c=null, Calendly__InviteeUuid__c=null, Calendly__IsNoShow__c=false, Calendly__IsRescheduled__c=false, tubl__Direction__c=null, tubl__Message__c=null, rcsfl__CALL_UNIQUE_ID__c=null, rcsfl__CALL_UUID__c=null, rcsfl__RC_Logging_Type__c=null, rcsfl__Recording_Information__c=null, rcsfl__call_end_time__c=null, rcsfl__call_start_time__c=null, rcsfl__callee_location__c=null, rcsfl__callee_name__c=null, rcsfl__caller_location__c=null, rcsfl__caller_name__c=null, rcsfl__external_whoid__c=null, rcsfl__from_number__c=null, rcsfl__hvs_disposition__c=null, rcsfl__key__c=null, rcsfl__to_number__c=null, rcsfl__Call_Recording__c=null, tubl__TextUs_Call__c=null, tubl__TextUs_Message__c=null, jc_dialer__All_Call_Type__c=null, jc_dialer__ConnectionStatus__c=null, jc_dialer__DayInWeek__c=null, jc_dialer__HoursDay__c=null, tz__Timezone__c=PDT, tz__UTC_Offset__c=-7.0, tz__Local_Time__c=03/30/2026 11:04 AM PDT, yw__SyncedFromYesware__c=false, yw__YeswareAttachmentOpens__c=null, yw__YeswareBounces__c=null, yw__YeswareFirstAttachmentOpenAt__c=null, yw__YeswareFirstBounceAt__c=null, yw__YeswareFirstLinkClickAt__c=null, yw__YeswareFirstOpenAt__c=null, yw__YeswareFirstPresentationViewAt__c=null, yw__YeswareFirstReplyAt__c=null, yw__YeswareLastAttachmentOpenAt__c=null, yw__YeswareLastBounceAt__c=null, yw__YeswareLastLinkClickAt__c=null, yw__YeswareLastOpenAt__c=null, yw__YeswareLastPresentationViewAt__c=null, yw__YeswareLastReplyAt__c=null, yw__YeswareLinkClicks__c=null, yw__YeswareOpens__c=null, yw__YeswarePresentationViews__c=null, yw__YeswareReplies__c=null}
+13:04:29.957 (958991675)|FLOW_ELEMENT_BEGIN|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|FlowRecordUpdate|Update_Records_1
+13:04:29.957 (959195964)|FLOW_ELEMENT_DEFERRED|FlowRecordUpdate|Update_Records_1
+13:04:29.957 (959244747)|FLOW_ELEMENT_LIMIT_USAGE|1 ms CPU time, total 1 out of 15000
+13:04:29.957 (959285945)|FLOW_ELEMENT_END|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|FlowRecordUpdate|Update_Records_1
+13:04:29.957 (959307178)|FLOW_START_INTERVIEW_END|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|Last Email sent date (Opp)
+13:04:29.957 (965345075)|FLOW_BULK_ELEMENT_BEGIN|FlowRecordUpdate|Update_Records_1
+13:04:29.957 (970099424)|FLOW_BULK_ELEMENT_DETAIL|FlowRecordUpdate|Update_Records_1|0
+13:04:29.957 (970154574)|FLOW_VALUE_ASSIGNMENT|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|Update_Records_1|false
+13:04:29.957 (970286297)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 SOQL queries, total 2 out of 100
+13:04:29.957 (970294672)|FLOW_BULK_ELEMENT_LIMIT_USAGE|5 ms CPU time, total 6 out of 15000
+13:04:29.957 (970459779)|FLOW_BULK_ELEMENT_END|FlowRecordUpdate|Update_Records_1|0|4
+13:04:29.957 (970634362)|FLOW_START_INTERVIEWS_END|1
+13:04:29.957 (970761636)|FLOW_INTERVIEW_FINISHED|47694827f7a6fbec75844fa30bae19d3fb327d8-718a|Last Email sent date (Opp)
+13:04:29.957 (970785336)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|SOQL queries: 2 out of 100
+13:04:29.957 (970790358)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|SOQL query rows: 1 out of 50000
+13:04:29.957 (970794498)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|SOSL queries: 0 out of 20
+13:04:29.957 (970798427)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|DML statements: 1 out of 150
+13:04:29.957 (970802107)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|DML rows: 1 out of 10000
+13:04:29.957 (970805720)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|CPU time in ms: 6 out of 15000
+13:04:29.957 (970856879)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|Heap size in bytes: 10435 out of 6000000
+13:04:29.957 (970861639)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|Callouts: 0 out of 100
+13:04:29.957 (970865273)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|Email invocations: 0 out of 10
+13:04:29.957 (970868972)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|Future calls: 0 out of 50
+13:04:29.957 (970872047)|FLOW_INTERVIEW_FINISHED_LIMIT_USAGE|Jobs in queue: 0 out of 50
+13:04:29.972 (972816756)|FLOW_CREATE_INTERVIEW_BEGIN|00DHp000004AXPa|300Vy00000UFXx2|301Vy00000d2Boy
+13:04:29.972 (972892263)|FLOW_CREATE_INTERVIEW_END|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|last email sent by + date - lead
+13:04:29.973 (973085870)|FLOW_START_INTERVIEWS_BEGIN|1
+13:04:29.973 (973112208)|FLOW_START_INTERVIEW_BEGIN|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|last email sent by + date - lead
+13:04:29.973 (973150123)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL queries: 2 out of 100
+13:04:29.973 (973156203)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOQL query rows: 1 out of 50000
+13:04:29.973 (973160047)|FLOW_START_INTERVIEW_LIMIT_USAGE|SOSL queries: 0 out of 20
+13:04:29.973 (973164449)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML statements: 1 out of 150
+13:04:29.973 (973169484)|FLOW_START_INTERVIEW_LIMIT_USAGE|DML rows: 1 out of 10000
+13:04:29.973 (973174229)|FLOW_START_INTERVIEW_LIMIT_USAGE|CPU time in ms: 0 out of 15000
+13:04:29.973 (973329911)|FLOW_START_INTERVIEW_LIMIT_USAGE|Heap size in bytes: 10435 out of 6000000
+13:04:29.973 (973334835)|FLOW_START_INTERVIEW_LIMIT_USAGE|Callouts: 0 out of 100
+13:04:29.973 (973338741)|FLOW_START_INTERVIEW_LIMIT_USAGE|Email invocations: 0 out of 10
+13:04:29.973 (973342384)|FLOW_START_INTERVIEW_LIMIT_USAGE|Future calls: 0 out of 50
+13:04:29.973 (973345641)|FLOW_START_INTERVIEW_LIMIT_USAGE|Jobs in queue: 0 out of 50
+13:04:29.973 (973349008)|FLOW_START_INTERVIEW_LIMIT_USAGE|Push notifications: 0 out of 10
+13:04:29.973 (976073996)|FLOW_VALUE_ASSIGNMENT|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|$Record|{Id=00TVy00001cflHeMAI, WhoId=00QVy00000d4BMbMAM, WhatId=null, WhoCount=1, WhatCount=0, Subject=Email: Re: Janell - Funding Options, ActivityDate=2026-03-30 00:00:00, Status=Completed, Priority=Normal, IsHighPriority=false, OwnerId=005Vy00000E8SQTIA3, Description=To: james.nunnery@bigthinkcapital.com
+CC: 
+BCC: 
+Attachment: --none--
+
+Subject: Re: Janell - Funding Options
+Body:
+Awesome, thank you so much! I applied to both
+On Mon, Mar 30, 2026 at 10:27 AM James Nunnery <james.nunnery@bigthinkcapital.com> wrote:
+Hi Janell, Based on the information provided, I have paired you with two lenders that we can take a look at. Once you connect the account with bank verification, you find out right away what you’re approved for.
+
+Here are links to apply…
+
+Giggle - Apply Here
+
+Fundo - Apply HereBest Regards, , Type=null, IsDeleted=false, AccountId=null, IsClosed=true, CreatedDate=2026-03-30 18:04:29, CreatedById=005Hp00000iw8lfIAA, LastModifiedDate=2026-03-30 18:04:29, LastModifiedById=005Hp00000iw8lfIAA, SystemModstamp=2026-03-30 18:04:29, IsArchived=false, IsVisibleInSelfService=false, CallDurationInSeconds=null, CallType=null, CallDisposition=null, CallObject=null, ReminderDateTime=null, IsReminderSet=false, RecurrenceActivityId=null, IsRecurrence=false, RecurrenceStartDateOnly=null, RecurrenceEndDateOnly=null, RecurrenceTimeZoneSidKey=null, RecurrenceType=null, RecurrenceInterval=null, RecurrenceDayOfWeekMask=null, RecurrenceDayOfMonth=null, RecurrenceInstance=null, RecurrenceMonthOfYear=null, RecurrenceRegeneratedType=null, TaskSubtype=Email, CompletedDateTime=2026-03-30 18:01:20, ActionCadenceStepTrackerId=null, TwilioSF__Message_SID__c=null, TwilioSF__To_Number__c=null, Calendly__InviteeUuid__c=null, Calendly__IsNoShow__c=false, Calendly__IsRescheduled__c=false, tubl__Direction__c=null, tubl__Message__c=null, rcsfl__CALL_UNIQUE_ID__c=null, rcsfl__CALL_UUID__c=null, rcsfl__RC_Logging_Type__c=null, rcsfl__Recording_Information__c=null, rcsfl__call_end_time__c=null, rcsfl__call_start_time__c=null, rcsfl__callee_location__c=null, rcsfl__callee_name__c=null, rcsfl__caller_location__c=null, rcsfl__caller_name__c=null, rcsfl__external_whoid__c=null, rcsfl__from_number__c=null, rcsfl__hvs_disposition__c=null, rcsfl__key__c=null, rcsfl__to_number__c=null, rcsfl__Call_Recording__c=null, tubl__TextUs_Call__c=null, tubl__TextUs_Message__c=null, jc_dialer__All_Call_Type__c=null, jc_dialer__ConnectionStatus__c=null, jc_dialer__DayInWeek__c=null, jc_dialer__HoursDay__c=null, tz__Timezone__c=PDT, tz__UTC_Offset__c=-7.0, tz__Local_Time__c=03/30/2026 11:04 AM PDT, yw__SyncedFromYesware__c=false, yw__YeswareAttachmentOpens__c=null, yw__YeswareBounces__c=null, yw__YeswareFirstAttachmentOpenAt__c=null, yw__YeswareFirstBounceAt__c=null, yw__YeswareFirstLinkClickAt__c=null, yw__YeswareFirstOpenAt__c=null, yw__YeswareFirstPresentationViewAt__c=null, yw__YeswareFirstReplyAt__c=null, yw__YeswareLastAttachmentOpenAt__c=null, yw__YeswareLastBounceAt__c=null, yw__YeswareLastLinkClickAt__c=null, yw__YeswareLastOpenAt__c=null, yw__YeswareLastPresentationViewAt__c=null, yw__YeswareLastReplyAt__c=null, yw__YeswareLinkClicks__c=null, yw__YeswareOpens__c=null, yw__YeswarePresentationViews__c=null, yw__YeswareReplies__c=null}
+13:04:29.973 (976251575)|FLOW_ELEMENT_BEGIN|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|FlowRecordUpdate|Update_Records_1
+13:04:29.973 (976406871)|FLOW_ELEMENT_DEFERRED|FlowRecordUpdate|Update_Records_1
+13:04:29.973 (976466312)|FLOW_ELEMENT_LIMIT_USAGE|3 ms CPU time, total 3 out of 15000
+13:04:29.973 (976507391)|FLOW_ELEMENT_END|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|FlowRecordUpdate|Update_Records_1
+13:04:29.973 (976527711)|FLOW_START_INTERVIEW_END|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|last email sent by + date - lead
+13:04:29.973 (976583075)|FLOW_BULK_ELEMENT_BEGIN|FlowRecordUpdate|Update_Records_1
+13:04:29.973 (979819367)|FLOW_BULK_ELEMENT_DETAIL|FlowRecordUpdate|Update_Records_1|1
+13:04:29.987 (987565701)|CODE_UNIT_STARTED|[EXTERNAL]|Flow:Lead
+13:04:29.987 (987830116)|CODE_UNIT_FINISHED|Flow:Lead
+13:04:29.990 (990236043)|CUMULATIVE_LIMIT_USAGE
+13:04:29.990 (990236043)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 2 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 3 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.990 (990236043)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.990 (990236043)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.991 (991331279)|CUMULATIVE_LIMIT_USAGE
+13:04:29.991 (991331279)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 2 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 3 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.991 (991331279)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.991 (991331279)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.992 (992837388)|CUMULATIVE_LIMIT_USAGE
+13:04:29.992 (992837388)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 2 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 3 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.992 (992837388)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.992 (992837388)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.993 (993876160)|CUMULATIVE_LIMIT_USAGE
+13:04:29.993 (993876160)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 2 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 3 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.993 (993876160)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.993 (993876160)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.994 (994452839)|CODE_UNIT_STARTED|[EXTERNAL]|01qVy00000Afq1h|dlrs_LeadTrigger on Lead trigger event BeforeUpdate|__sfdc_trigger/dlrs_LeadTrigger
+13:04:29.994 (994698639)|CUMULATIVE_LIMIT_USAGE
+13:04:29.994 (994698639)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 2 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 3 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.994 (994698639)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.994 (994698639)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.994 (994813605)|CODE_UNIT_FINISHED|dlrs_LeadTrigger on Lead trigger event BeforeUpdate|__sfdc_trigger/dlrs_LeadTrigger
+13:04:29.995 (995728055)|CUMULATIVE_LIMIT_USAGE
+13:04:29.995 (995728055)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 3 out of 100
+  Number of query rows: 2 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.995 (995728055)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:29.995 (995728055)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.996 (996271979)|CODE_UNIT_STARTED|[EXTERNAL]|01qVy00000MRtrl|LeadOwnerChangeRestriction on Lead trigger event BeforeUpdate|__sfdc_trigger/LeadOwnerChangeRestriction
+13:04:29.996 (996770421)|SOQL_EXECUTE_BEGIN|[4]|Aggregations:0|SELECT Id, UserRoleId FROM User WHERE Id = :tmpVar1
+13:04:29.996 (999946532)|SOQL_EXECUTE_END|[4]|Rows:1
+13:04:29.996 (1000325255)|SOQL_EXECUTE_BEGIN|[5]|Aggregations:0|SELECT Name FROM UserRole WHERE Id = :tmpVar1
+13:04:29.996 (1001505083)|SOQL_EXECUTE_END|[5]|Rows:0
+13:04:29.996 (1001672591)|FATAL_ERROR|System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1
+13:04:29.996 (1001683073)|FATAL_ERROR|System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1
+13:04:30.1 (1001703906)|CUMULATIVE_LIMIT_USAGE
+13:04:30.1 (1001703906)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 5 out of 100
+  Number of query rows: 3 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:30.1 (1001703906)|LIMIT_USAGE_FOR_NS|tz|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+13:04:30.1 (1001703906)|CUMULATIVE_LIMIT_USAGE_END
+
+13:04:29.996 (1001832789)|CODE_UNIT_FINISHED|LeadOwnerChangeRestriction on Lead trigger event BeforeUpdate|__sfdc_trigger/LeadOwnerChangeRestriction
+13:04:29.973 (1018945399)|FLOW_VALUE_ASSIGNMENT|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|Update_Records_1|false
+13:04:29.973 (1019138303)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 SOQL queries, total 3 out of 100
+13:04:29.973 (1019147554)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 SOQL query rows, total 2 out of 50000
+13:04:29.973 (1019153859)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 DML statements, total 2 out of 150
+13:04:29.973 (1019158247)|FLOW_BULK_ELEMENT_LIMIT_USAGE|1 DML rows, total 2 out of 10000
+13:04:29.973 (1019162633)|FLOW_BULK_ELEMENT_LIMIT_USAGE|15 ms CPU time, total 18 out of 15000
+13:04:29.973 (1019359049)|FLOW_BULK_ELEMENT_END|FlowRecordUpdate|Update_Records_1|0|42
+13:04:29.973 (1022085778)|FLOW_VALUE_ASSIGNMENT|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|error.errorId|37112698-80344 (1722179010)
+13:04:29.973 (1022098533)|FLOW_VALUE_ASSIGNMENT|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|error.type|FLOW_INTERVIEW_SAVE_RESULT
+13:04:29.973 (1022101733)|FLOW_VALUE_ASSIGNMENT|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|error.apiErrorCode|CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY
+13:04:29.973 (1022104656)|FLOW_VALUE_ASSIGNMENT|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|error.message|This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide.
+13:04:29.973 (1022109594)|FLOW_VALUE_ASSIGNMENT|47704827f7a6fbec75844fa30bae19d3fb327d8-718b|error.endUserMessage|This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide.
+13:04:29.973 (1155719587)|FLOW_ELEMENT_ERROR|The flow tried to update these records: 00QVy00000d4BMbMAM. This error occurred: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the <a href='https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_calls_concepts_core_data_objects.htm#'>SOAP API Developer Guide</a>.|FlowRecordUpdate|Update_Records_1
+13:04:29.973 (1155899496)|FLOW_START_INTERVIEWS_END|1
+13:04:29.355 (1156798310)|CODE_UNIT_FINISHED|Flow:Task
+13:04:30.167 (1167346216)|FLOW_ACTIONCALL_DETAIL|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|AssociateRecordsToActivity|Create Email Activity with Associations|associateRecordsWithActivity|false|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+
+13:04:30.167 (1167390070)|FLOW_ACTIONCALL_DETAIL|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|AssociateRecordsToActivity|Create Email Activity with Associations|associateRecordsWithActivity|false|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+
+13:04:30.167 (1524369408)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|AssociateRecordsToActivity|false
+13:04:30.167 (1524509017)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|error.errorId|37112698-80345 (-1242971957)
+13:04:30.167 (1524517978)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|error.type|FLOW_INTERVIEW_SAVE_RESULT
+13:04:30.167 (1524523068)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|error.message|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+
+13:04:30.167 (1524534509)|FLOW_VALUE_ASSIGNMENT|47664827f7a6fbec75844fa30bae19d3fb327d8-7187|error.endUserMessage|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+
+13:04:30.167 (1524654332)|FLOW_ELEMENT_ERROR|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+|FlowActionCall|AssociateRecordsToActivity
+13:04:30.167 (1524700873)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|AssociateRecordsToActivity|false
+13:04:30.167 (1524794733)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|error.errorId|37112698-80345 (-1242971957)
+13:04:30.167 (1524800466)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|error.type|FLOW_INTERVIEW_SAVE_RESULT
+13:04:30.167 (1524804807)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|error.message|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+
+13:04:30.167 (1524815861)|FLOW_VALUE_ASSIGNMENT|47674827f7a6fbec75844fa30bae19d3fb327d8-7188|error.endUserMessage|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+
+13:04:30.167 (1524856032)|FLOW_ELEMENT_ERROR|We can't save this record because the “Last email sent date (Lead)” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY: LeadOwnerChangeRestriction: execution of BeforeUpdate
+
+caused by: System.QueryException: List has no rows for assignment to SObject
+
+Trigger.LeadOwnerChangeRestriction: line 5, column 1. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 37112698-80342 (1722179010)
+|FlowActionCall|AssociateRecordsToActivity
+13:04:30.167 (1524991122)|FLOW_BULK_ELEMENT_LIMIT_USAGE|-14 ms CPU time, total 16 out of 15000
+13:04:30.167 (1525193792)|FLOW_BULK_ELEMENT_LIMIT_USAGE|10435 bytes heap size, total 10435 out of 6000000
+13:04:30.167 (1525215742)|FLOW_BULK_ELEMENT_END|FlowActionCall|AssociateRecordsToActivity|0|371
+13:04:30.167 (1525279434)|FLOW_START_INTERVIEWS_END|2
